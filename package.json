@@ -1,0 +1,11 @@
+{
+  "name": "own-portfolio-use-html-css",
+  "version": "1.0.0",
+  "description": "cd \"C:\\sirameenasssignment\\portfolio\\rabia-bi bi-portfolio-html&css\\own-portfolio-use-html-css\"",
+  "main": "install",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
